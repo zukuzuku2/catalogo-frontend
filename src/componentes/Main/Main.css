@@ -1,0 +1,17 @@
+.page {
+  background-color: #000000;
+  /* font-family: Inter, Arial, sans-serif; */
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
