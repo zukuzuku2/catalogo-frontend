@@ -4,17 +4,18 @@ import Profile from "../Profile/Profile";
 import Movie from "../Movie/Movie";
 import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
+import Login from "../Login/Login";
 
 function Main() {
   return (
     <div class="page">
-      <Header />
+      <Login />
+      {/* <Header />
       <main class="main">
         <Profile />
         <Movie />
       </main>
-      {/* <!-- Agrega más películas aquí --> */}
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }

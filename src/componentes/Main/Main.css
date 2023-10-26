@@ -1,5 +1,5 @@
 .page {
-  background-color: #000000;
+  background: linear-gradient(to right, #8360c3, #2ebf91);
   /* font-family: Inter, Arial, sans-serif; */
   font-family: Arial, sans-serif;
   display: flex;
